@@ -89,17 +89,17 @@ n_clust_cut      <- 16         # number of clusters in hierarchical clustering
 # ---- File paths (update these for new datasets) ----
 
 # Nuclei measurements (CellProfiler output)
-nuclei_file <- "/Users/silva01/Desktop/Scripts and Dataset for Spatial Analysis pt.1/BL195112Nuclei.csv"
+nuclei_file <- "/Users/silva01/Desktop/Scripts and Dataset for Spatial Analysis pt.1/BL195112Nuclei_Cancer.csv"
 
 # Output directory / prefix for this dataset
 output_prefix <- "10 Tumour Analysis/Comprehensive Dataset S28 BL195111/BL195112_S28"
 
 # TME marker files (CellProfiler exports)
 
-asma_file  <- "Scripts and Dataset for Spatial Analysis pt.2/MyExpt_Test_aSMA_aSMA_Memb.csv"
-cd31_file  <- "Scripts and Dataset for Spatial Analysis pt.3/MyExpt_Test_CD31_Memb.csv"
-iba1_file  <- "Scripts and Dataset for Spatial Analysis pt.3/MyExpt_Test_IBA1_IBA1_Memb.csv"
-pdpn_file  <- "Scripts and Dataset for Spatial Analysis pt.3/MyExpt_Test_PDPN_PDPN_Memb.csv"
+asma_file  <- "Scripts and Dataset for Spatial Analysis pt.1/aSMA_Memb_Stain.csv"
+cd31_file  <- "Scripts and Dataset for Spatial Analysis pt.1/CD31_Memb_Stain.csv"
+iba1_file  <- "Scripts and Dataset for Spatial Analysis pt.1/IBA1_Memb_stain.csv"
+pdpn_file  <- "Scripts and Dataset for Spatial Analysis pt.1/PDPN_Memb_stain.csv"
 
 #############################################
 # 3. LOAD NUCLEI DATA
