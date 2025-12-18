@@ -96,10 +96,10 @@ output_prefix <- "10 Tumour Analysis/Comprehensive Dataset S28 BL195111/BL195112
 
 # TME marker files (CellProfiler exports)
 
-asma_file  <- "Scripts and Dataset for Spatial Analysis pt.1/aSMA_Memb_Stain.csv"
-cd31_file  <- "Scripts and Dataset for Spatial Analysis pt.1/CD31_Memb_Stain.csv"
-iba1_file  <- "Scripts and Dataset for Spatial Analysis pt.1/IBA1_Memb_stain.csv"
-pdpn_file  <- "Scripts and Dataset for Spatial Analysis pt.1/PDPN_Memb_stain.csv"
+asma_file  <- "aSMA_Memb_Stain.csv"
+cd31_file  <- "CD31_Memb_Stain.csv"
+iba1_file  <- "IBA1_Memb_stain.csv"
+pdpn_file  <- "PDPN_Memb_stain.csv"
 
 #############################################
 # 3. LOAD NUCLEI DATA
